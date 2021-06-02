@@ -2,7 +2,7 @@
 
  <img align="right" alt="GIF" src="https://github.com/AmreshTripathy/AmreshTripathy/blob/main/tenor.gif" width="500" height="320" />
 
-## I am a Junior Year Student at GIET University currently undertaking my Bachelors in Computer Science and Engineering. I'm a proficient with data analysis and django. I'm deeply passionate about software development.!!
+## I am a Student at GIET University currently undertaking my Bachelors in Computer Science and Engineering. I'm a proficient with data analysis and django. I'm deeply passionate about software development.!!!
 
 - 🔭 I’m currently working on my skill in Python
 - 🌱 I’m currently learning Data Science and Flutter
