@@ -37,6 +37,7 @@
 <br />
 <br />
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AmreshTripathy&label=Profile%20views&color=ab8809&style=flat" alt="AmreshTripathy" /> </p>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
