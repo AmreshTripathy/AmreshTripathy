@@ -41,16 +41,26 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Amresh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AmreshTripathy&show_icons=true&hide_border=true&theme=vision-friendly-dark" />
-
-</details>
-
-<details>
+  <img align="center" alt="Amresh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AmreshTripathy&show_icons=true&hide_border=true&theme=vision-friendly-dark" />
+ </details>
+ 
+ <details>
   <summary>:zap: Most Used Languages</summary>
 
-  <img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmreshTripathy&hide_border=true&theme=vision-friendly-dark" />
+  <img align="center" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmreshTripathy&hide_border=true&theme=vision-friendly-dark" />
 
 </details>
+
+ <details>
+ <summary>:zap:Streak</summary>
+
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AmreshTripathy&hide_border=true&theme=vision-friendly-dark" alt="AmreshTripathy" />
+
+</details>
+ 
+ 
+
+
 
 
 
