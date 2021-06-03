@@ -1,11 +1,11 @@
-### Hello, I'm Amresh  👋<img align="right" src="https://komarev.com/ghpvc/?username=AmreshTripathy&label=Profile%20views&color=ab8809&style=flat" alt="AmreshTripathy" float="right"/>
+### Hello Everyone, I'm Amresh  👋<a href="https://github.com/AmreshTripathy">@AmreshTripathy</a><img align="right" src="https://komarev.com/ghpvc/?username=AmreshTripathy&label=Profile%20views&color=ab8809&style=flat" alt="AmreshTripathy" float="right"/>
  <img align="right" alt="GIF" src="https://github.com/AmreshTripathy/AmreshTripathy/blob/main/tenor.gif" width="450" height="275" />
 
-## I am a Student at GIET University currently undertaking my Bachelors in Computer Science and Engineering. I'm a proficient with data analysis and django. I'm deeply passionate about software development.!!!
+## **_I am a Student👨‍🎓 at GIET University currently undertaking my Bachelors in Computer Science and Engineering. I'm a proficient with data analysis and django. I'm deeply passionate about software development and building project💪.!!!_**
 
 - 🔭 I’m currently working on my skill in Python
 - 🌱 I’m currently learning Data Science and Flutter
-- 👯 I’m looking to collaborate on open source
+- 👯 I’m looking for a internship
 - 💬 Ask me about ... Anything related to Python queries
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I speak 4 languages ( English, Hindi, Odia, Sambalpuri😊)
