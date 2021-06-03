@@ -1,6 +1,6 @@
 ### Hello World, I'm Amresh  👋
 
- <img align="right" alt="GIF" src="https://github.com/AmreshTripathy/AmreshTripathy/blob/main/tenor.gif" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/AmreshTripathy/AmreshTripathy/blob/main/tenor.gif" width="400" height="280" />
 
 ## I am a Student at GIET University currently undertaking my Bachelors in Computer Science and Engineering. I'm a proficient with data analysis and django. I'm deeply passionate about software development.!!!
 
