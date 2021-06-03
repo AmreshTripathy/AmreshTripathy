@@ -1,5 +1,5 @@
-### Hello World, I'm Amresh  👋
-
+<div>
+<h1>Hello World, I'm Amresh  👋<img align="right" src="https://komarev.com/ghpvc/?username=AmreshTripathy&label=Profile%20views&color=ab8809&style=flat" alt="AmreshTripathy" float="right"/></h1>
  <img align="right" alt="GIF" src="https://github.com/AmreshTripathy/AmreshTripathy/blob/main/tenor.gif" width="500" height="320" />
 
 ## I am a Student at GIET University currently undertaking my Bachelors in Computer Science and Engineering. I'm a proficient with data analysis and django. I'm deeply passionate about software development.!!!
@@ -34,37 +34,31 @@
 <img align="left" alt="php" width="26px" src="https://cdn.svgporn.com/logos/php.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-<br />
-<br />
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AmreshTripathy&label=Profile%20views&color=ab8809&style=flat" alt="AmreshTripathy" /> </p>
-
-<details>
+<br/>
+<br/>
+<br/>
+<h3><details>
   <summary>:zap: GitHub Stats</summary>
-
+  <br/>
   <img align="center" alt="Amresh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AmreshTripathy&show_icons=true&hide_border=true&theme=vision-friendly-dark" />
- </details>
  
- <details>
+ </details></h3>
+ 
+<h3><details>
   <summary>:zap: Most Used Languages</summary>
+  <br/>
+  <img align="center" alt="Amresh's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmreshTripathy&hide_border=true&theme=vision-friendly-dark" />
 
-  <img align="center" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmreshTripathy&hide_border=true&theme=vision-friendly-dark" />
-
-</details>
-
- <details>
+</details></h3>
+ 
+ <h3><details>
  <summary>:zap:Streak</summary>
-
+ <br/>
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AmreshTripathy&hide_border=true&theme=vision-friendly-dark" alt="AmreshTripathy" />
 
-</details>
- 
- 
-
-
-
-
+  </details></h3>
 
 
 
 [linkedin]: https://www.linkedin.com/in/amresh-tripathy-711b14193/
+</div>
