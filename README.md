@@ -50,7 +50,13 @@
   <img align="center" alt="Amresh's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmreshTripathy&hide_border=true&theme=vision-friendly-dark" />
 
 </details></h3>
- 
+ <h3><details>
+ <summary>:zap:Streak</summary>
+ <br/>
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AmreshTripathy&hide_border=true&theme=vision-friendly-dark" alt="AmreshTripathy" />
+
+  </details></h3>
+
  
 
 
