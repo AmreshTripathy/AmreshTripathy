@@ -51,13 +51,7 @@
 
 </details></h3>
  
- <h3><details>
- <summary>:zap:Streak</summary>
- <br/>
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AmreshTripathy&hide_border=true&theme=vision-friendly-dark" alt="AmreshTripathy" />
-
-  </details></h3>
-
+ 
 
 
 [linkedin]: https://www.linkedin.com/in/amresh-tripathy-711b14193/
