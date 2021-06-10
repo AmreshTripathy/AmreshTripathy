@@ -35,25 +35,6 @@
 </p>
 
 
-<h3><details>
-  <summary>:zap: GitHub Stats</summary>
-  <br/>
-  <img align="center" alt="Amresh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AmreshTripathy&show_icons=true&hide_border=true&theme=vision-friendly-dark" />
- 
- </details></h3>
- 
-<h3><details>
-  <summary>:zap: Most Used Languages</summary>
-  <br/>
-  <img align="center" alt="Amresh's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmreshTripathy&hide_border=true&theme=vision-friendly-dark" />
-
-</details></h3>
- <h3><details>
- <summary>:zap:Streak</summary>
- <br/>
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AmreshTripathy&hide_border=true&theme=vision-friendly-dark" alt="AmreshTripathy" />
-
-  </details></h3>
 
 
 
