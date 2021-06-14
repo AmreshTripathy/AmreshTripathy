@@ -1,4 +1,4 @@
-### Hello Everyone, I'm Amresh  👋<a href="https://github.com/AmreshTripathy">@AmreshTripathy</a><img align="right" src="https://komarev.com/ghpvc/?username=AmreshTripathy&label=Profile%20views&color=ab8809&style=flat" alt="AmreshTripathy" float="right"/>
+### Hello Everyone, I'm Amresh  👋<code><a href="https://github.com/AmreshTripathy">@AmreshTripathy</a></code><img align="right" src="https://komarev.com/ghpvc/?username=AmreshTripathy&label=Profile%20views&color=ab8809&style=flat" alt="AmreshTripathy" float="right"/>
  <img align="right" alt="GIF" src="https://github.com/AmreshTripathy/AmreshTripathy/blob/main/tenor.gif" width="450" height="275" />
 
 ## **_I am a Student👨‍🎓 at GIET University currently undertaking my Bachelors in Computer Science and Engineering. I'm a proficient with data analysis and django. I'm deeply passionate about software development and building project💪.!!!_**
