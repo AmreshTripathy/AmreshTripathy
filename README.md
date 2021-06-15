@@ -44,7 +44,7 @@
 <h3><details>
   <summary>:zap: Most Used Languages</summary>
   <br/>
-  <img align="center" alt="Amresh's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmreshTripathy&hide_border=true&theme=vision-friendly-dark" />
+  <img align="center" alt="Amresh's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmreshTripathy&hide_border=true&layout=compact&theme=vision-friendly-dark" />
 
 </details></h3>
  <h3><details>
