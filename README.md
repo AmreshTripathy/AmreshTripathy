@@ -3,7 +3,7 @@
 
 ## **_I am a Student👨‍🎓 at GIET University currently undertaking my Bachelors in Computer Science and Engineering. I'm a proficient with data analysis and django. I'm deeply passionate about software development and building project💪.!!!_**
 
-- 🔭 I’m currently working on my skill in Python
+- 🔭 I’m currently working on my skill in Java
 - 🌱 I’m currently learning Data Science and Flutter
 - 👯 I’m looking for a job right now
 - 💬 Ask me about ... Anything related to Python queries
